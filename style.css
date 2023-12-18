@@ -270,7 +270,7 @@ body{
 .click-{
     position: absolute;
     size-adjust: 90%;
-    left: 119px;
+    left: 130px;
     top: 1733px ;
     color: white;
     font-weight: bold;
@@ -286,7 +286,7 @@ body{
 .click--{
     position: absolute;
     size-adjust: 90%;
-    left: 413px;
+    left: 426px;
     top: 1733px ;
     color: white;
     font-weight: bold;
@@ -303,7 +303,7 @@ body{
 .click---{
     position: absolute;
     size-adjust: 90%;
-    left: 715px;
+    left: 720px;
     top: 1733px ;
     color: white;
     font-weight: bold;
@@ -320,7 +320,7 @@ body{
 .click----{
     position: absolute;
     size-adjust: 80%;
-    left: 1010px;
+    left: 1020px;
     top: 1733px ;
     color: white;
     font-weight: bold;
@@ -368,6 +368,37 @@ body{
     font-size: 25px;
 }
 
+.shuttle-{
+    position: absolute;
+    top: 1656px;
+    left: 136px;
+    width: 160px;
+    color: rgb(97, 95, 95)
+}
+
+.city--{
+    position: absolute;
+    top: 1656px;
+    left: 437px;
+    width: 160px;
+    color: rgb(97, 95, 95)
+}
+
+.charter---{
+    position: absolute;
+    top: 1656px;
+    left: 729px;
+    width: 160px;
+    color: rgb(97, 95, 95)
+}
+
+.more----{
+    position: absolute;
+    top: 1656px;
+    left: 1025px;
+    width: 160px;
+    color: rgb(97, 95, 95)
+}
 .rectangle---{
     position: absolute; 
     top: 1880px;
