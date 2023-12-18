@@ -231,10 +231,6 @@ body{
     color: white;
 }
 
-.maps{
-    font-size: 15px;
-}
-
 .red-{
     background-color: #C51605;
     width: 65px;
@@ -338,6 +334,39 @@ body{
     z-index: 3;
 }
 
+.bus{
+    position: absolute;
+    top: 1733px;
+    width: 100px;
+}
+
+.Shuttle{
+    position: absolute;
+    top: 1615px;
+    left: 136px;
+    font-size: 25px;
+}
+
+.City{
+    position: absolute;
+    top: 1615px;
+    left: 437px;
+    font-size: 25px;
+}
+
+.Charter{
+    position: absolute;
+    top: 1615px;
+    left: 729px;
+    font-size: 25px;
+}
+
+.More{
+    position: absolute;
+    top: 1615px;
+    left: 1025px;
+    font-size: 25px;
+}
 
 .rectangle---{
     position: absolute; 
