@@ -529,7 +529,7 @@ div .glad{
 
 #box1{
     position: absolute;
-    top: 2967px;
+    top: 2960px;
     left: 600px;
     size-adjust: 100px;
     
@@ -548,8 +548,8 @@ div .glad{
 }
 
 #mess{
-    margin-top: 100px   ;
-    padding-right: 90px;
+    margin-top: 49x;
+    padding-right: 250px;
     border-top: none;
     border-left: none;
     border-right: none;
@@ -561,13 +561,17 @@ div .glad{
     border-left: none;
     border-right: none;
     outline: none;
+    padding-right: 90px;
 }
 
 #email{
+
+    margin-bottom: 10px;
     border-top: none;
     border-left: none;
     border-right: none;
     outline: none;
+    padding-right: 90px;
 }
 
 div .bglast{
