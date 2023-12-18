@@ -576,15 +576,21 @@ div .phone{
     display:flex;
     background-color: #FFFBF5;
     margin-left: 0;
-    top: 3500px;
+    top: 3620px;
     font-size: 18px;
     align-items: center;
     z-index: 3;
     position: absolute;
     border-bottom-right-radius: 15px;
     border-top-right-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
 }
 
+.nav-{
+    margin-left: 100px;    
+}
 .nav- a{
     text-decoration:none;
     color: gray;
@@ -592,8 +598,9 @@ div .phone{
     display:row nowrap;
     padding: 13px;
     text-size-adjust:auto;
+    margin-left: 5px;
 }
 
-.Logo-{
-    
+.Logo- img{
+    margin-left: 200px
 }
