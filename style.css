@@ -231,7 +231,7 @@ body{
     color: white;
 }
 
-.dummy{
+.maps{
     font-size: 15px;
 }
 
@@ -497,6 +497,77 @@ div .maps img{
     top: 3011px;
     height: 300px;
     width: 100%;
+}
+
+div .message{
+    position: absolute;
+    background-color: #ffff;
+    width: 960px;
+    height: 200px;
+    top: 2900px;
+    left: 194px;
+}
+
+#box{ 
+    position: absolute;
+    top: 2915px;
+    left: 220px;
+
+}
+
+div .reach{
+    color: rgb(196, 3, 3);
+}
+
+div .Send{
+    color: rgb(69, 69, 69);
+}
+
+div .glad{
+    color: rgba(88, 88, 88, 0.87);
+}
+
+#box1{
+    position: absolute;
+    top: 2967px;
+    left: 600px;
+    size-adjust: 100px;
+    
+
+}
+
+.sub{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(252, 251, 251);
+    background-color: rgb(194, 4, 4);
+    border-style: hidden;
+    border-radius: 5px;
+}
+
+#mess{
+    margin-top: 100px   ;
+    padding-right: 90px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+}
+
+#fullname{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+}
+
+#email{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
 }
 
 div .bglast{
