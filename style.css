@@ -334,10 +334,32 @@ body{
     z-index: 3;
 }
 
-.bus{
+.bus img{
     position: absolute;
-    top: 1733px;
-    width: 100px;
+    top: 1546px;
+    left: 130px;
+    width: 150px;
+}
+
+.bus-- img{
+    position: absolute;
+    top: 1546px;
+    left: 437px;
+    width: 150px;
+}
+
+.bus--- img{
+    position: absolute;
+    top: 1546px;
+    left: 729px;
+    width: 150px;
+}
+
+.bus---- img{
+    position: absolute;
+    top: 1546px;
+    left: 1025px;
+    width: 150px;
 }
 
 .Shuttle{
