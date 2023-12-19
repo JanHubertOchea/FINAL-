@@ -763,5 +763,14 @@ div .phone{
 }
 
 @media screen and (max-width: 600px){
+    .nav- asdaasd{
+        text-decoration:none;
+        color: gray;
+        font-size: small;
+        display:row nowrap;
+        padding: 13px;
+        text-size-adjust:auto;
+        margin-left: 5px;
+    }
     .general910
 }
