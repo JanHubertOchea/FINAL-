@@ -1,5 +1,5 @@
 body{
-    background-image: url(.//img/bg-log\ In.jpg);
+    background-image: url(image/bg-log\ In.jpg);
     background-size: cover 100%;
     margin: 0;
     padding: 0;
@@ -161,14 +161,6 @@ body{
 
 
 
-
-
-
-
-
-
-
-
 .box1 h2{
     margin: 0 0 -0.125rem;
     padding: 0;
@@ -211,9 +203,6 @@ body{
     pointer-events: none;
     transition: 0.3s;
 }
-
-
-
 
 
 .box1 .inputBXx input:focus ~ label,

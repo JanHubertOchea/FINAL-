@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded',function(){
 document.getElementById('SignIn').addEventListener('click', function () {
     const payr = parseInt(document.getElementsByClassName('inputBXx').value);
 
-    if (pay) {
+    if (payr) {
         alert('PLEASE FILL OUT THE FORM  :(')
     } else {
         alert('Account Created!')
