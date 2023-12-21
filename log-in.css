@@ -143,19 +143,23 @@ body{
     outline: none;
     border: 2px solid #287ae6;
 }
-.box input[type="submit"] {
+
+#submit {
     border: none;
     outline: none;
     color: #f8f9f5;
     background-color: #1a73e8;
-    padding: 0.625rem 1.25rem;
+    padding: 0.625rem .25rem;
+    position: absolute;
+    left: 97px;
+    top: 280px;
     cursor: pointer;
     border-radius: 0.312rem;
     font-size: 1rem;
-    float: right;
+   text-align: center;
 }
 
-.box input[type="submit"]:hover {
+#submit :hover {
     background-color: #0096FF;
 }
 
